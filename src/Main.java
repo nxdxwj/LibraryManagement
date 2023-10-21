@@ -22,7 +22,9 @@ public class Main {
 
         int who = input.nextInt();
         if (who==0){
-//            return new AdminUser(name);
+            AdminUser adminUser = new AdminUser();
+            adminUser.initial(name,books);
+
         }else {
             NormalUser normalUser = new NormalUser();
             normalUser.inital(name,books);

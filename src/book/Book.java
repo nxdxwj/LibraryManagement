@@ -7,11 +7,12 @@ public class Book {
     private String type;
     private boolean isBorrowed=false;  //默认未借出
 
-    public Book(String name, String author, int price, String type) {
+    public Book(String name, String author, int price, String type, boolean isBorrowed) {
         this.name = name;
         this.author = author;
         this.price = price;
         this.type = type;
+        this.isBorrowed = isBorrowed;
     }
 
     public String getName() {
