@@ -1,10 +1,17 @@
+import book.Book;
+import book.BookList;
 import user.AdminUser;
 import user.NormalUser;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        BookList bookList = new BookList();
+        ArrayList<Book> books = bookList.getBooks();
+
+
         System.out.print("请输入姓名：");
 
         Scanner input = new Scanner(System.in);
@@ -18,7 +25,7 @@ public class Main {
 //            return new AdminUser(name);
         }else {
             NormalUser normalUser = new NormalUser();
-            normalUser.inital(name);
+            normalUser.inital(name,books);
         }
     }
 }
