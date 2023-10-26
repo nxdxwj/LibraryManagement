@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e911c5c2-14de-478e-857f-d4f47947ce37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/operation/DelOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operation/DisplayOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book/BookList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/BookList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operation/AddOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operation/AddOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/user/AdminUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/AdminUser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,21 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/JAVA程序/LibraryManagement&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/JAVA程序/LibraryManagement",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -83,7 +76,9 @@
       <workItem from="1697859949862" duration="111000" />
       <workItem from="1697860082451" duration="230000" />
       <workItem from="1697880750270" duration="703000" />
-      <workItem from="1697902969820" duration="3317000" />
+      <workItem from="1697902969820" duration="3707000" />
+      <workItem from="1698047305509" duration="1247000" />
+      <workItem from="1698320048973" duration="382000" />
     </task>
     <servers />
   </component>
